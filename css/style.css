@@ -1,0 +1,59 @@
+body {
+    color: black;
+}
+
+.head {
+    font-weight: 650;
+    font-size: 2em;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.result {
+    padding: 1% 27%;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.result a {
+    text-decoration: none;
+}
+
+.result a:hover {
+    text-decoration: underline;
+}
+
+
+/* .result a:visited{
+    color: blueviolet;
+} */
+
+.title-color {
+    color: rgba(255, 165, 0, 0.65)
+}
+
+.btn {
+    width: 100px;
+}
+
+button a {
+    color: white;
+}
+
+.btnNext {
+    float: right;
+}
+
+.btnPrevious {
+    float: left;
+}
+
+.m-b-10 {
+    margin-bottom: 3%;
+}
+
+.h-400 {
+    height: 400px;
+    overflow: auto;
+    overflow-x: hidden;
+}
