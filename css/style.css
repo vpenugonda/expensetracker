@@ -1,12 +1,22 @@
-.m-b-2{
-    margin-bottom : 2%; 
+.m-b-2 {
+    margin-bottom: 2%;
 }
-.m-t-2{
-    margin-top : 2%; 
+
+.m-t-2 {
+    margin-top: 2%;
 }
-.drop-shadow{
-    box-shadow: 0 0 5px 1px rgba(0, 0, 0, .5);
+
+.drop-shadow {
+    box-shadow: 0 0 3px 0px rgba(0, 0, 0, .5);
     border-radius: 0px;
+}
+#expenses, select option{
+    text-transform: capitalize;
+}
+.scrollable-menu {
+    max-height: 200px;
+    overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 .footer {
@@ -16,7 +26,6 @@
     background-color: #f5f5f5;
 }
 
-
 /* Responsive: Portrait tablets and up */
 
 @media screen and (min-width: 48em) {
@@ -25,9 +34,17 @@
         padding-right: 0;
         padding-left: 0;
     }
+
     /* Space out the masthead */
     .header {
         margin-bottom: 2rem;
+    }
+    .m-b-2 {
+        margin-bottom: 2%;
+    }
+
+    .m-t-2 {
+        margin-top: 2%;
     }
     /* Remove the bottom border on the jumbotron for visual effect */
     .jumbotron {
