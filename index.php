@@ -88,14 +88,14 @@ if (!empty($_GET['del_id'])) {
     <div class="row">
         <div class="header clearfix">
             <nav>
-<!--                <ul class="nav nav-pills float-right">-->
-<!--                    <li class="nav-item">-->
-<!--                        <a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>-->
-<!--                    </li>-->
-<!--                    <li class="nav-item">-->
-<!--                        <a class="nav-link" href="#">About</a>-->
-<!--                    </li>-->
-<!--                </ul>-->
+                <ul class="nav nav-pills float-right">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">About</a>
+                    </li>
+                </ul>
             </nav>
             <h1 class=""><strong> Expense </strong> Tracker</h1>
 
