@@ -88,14 +88,14 @@ if (!empty($_GET['del_id'])) {
     <div class="row">
         <div class="header clearfix">
             <nav>
-<!--                <ul class="nav nav-pills float-right">-->
-<!--                    <li class="nav-item">-->
-<!--                        <a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>-->
-<!--                    </li>-->
-<!--                    <li class="nav-item">-->
-<!--                        <a class="nav-link" href="#">About</a>-->
-<!--                    </li>-->
-<!--                </ul>-->
+                <ul class="nav nav-pills float-right">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">About</a>
+                    </li>
+                </ul>
             </nav>
             <h1 class=""><strong> Expense </strong> Tracker</h1>
 
@@ -154,10 +154,10 @@ if (!empty($_GET['del_id'])) {
                                 <option value="shopping"> Shopping</option>
                                 <option value="vegetables"> Vegetables</option>
                                 <option value="rent"> Rent</option>
-                                <option value="grocery"> grocery</option>
-                                <option value="uber"> uber</option>
-                                <option value="transportation"> transportation</option>
-                                <option value="dining"> dining</option>
+                                <option value="grocery"> Grocery</option>
+                                <option value="uber"> Uber</option>
+                                <option value="transportation"> Transportation</option>
+                                <option value="dining"> Dining</option>
                                 <option value="other"> Other</option>
                             </select>
                         </div>
