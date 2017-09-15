@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d52de540-e41a-4af1-bdef-03f4517b2e6e" name="Default" comment="" />
+    <list default="true" id="d52de540-e41a-4af1-bdef-03f4517b2e6e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,22 +18,22 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="97" selection-end-column="21" />
+            <state relative-caret-position="347">
+              <caret line="89" column="18" lean-forward="false" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
               <folding>
-                <marker date="1505500299896" expanded="true" signature="553:621" ph="DELETE FROM " />
-                <marker date="1505500299896" expanded="true" signature="777:808" ph="SELECT * FRO... expensesdetails" />
-                <marker date="1505500299896" expanded="true" signature="777:824" ph="SELECT * FRO... expensesdetails" />
-                <marker date="1505500299896" expanded="true" signature="777:827" ph="SELECT * FRO... expensesdetails" />
-                <marker date="1505500299896" expanded="true" signature="777:839" ph="SELECT * FRO... expensesdetails" />
-                <marker date="1505500299896" expanded="true" signature="777:841" ph="SELECT * FRO... expensesdetails" />
-                <marker date="1505500299896" expanded="true" signature="1191:1229" ph="UPDATE `expe... " />
-                <marker date="1505500299896" expanded="true" signature="1191:1370" ph="UPDATE `expe... " />
-                <marker date="1505500299896" expanded="true" signature="1191:1378" ph="UPDATE `expe... " />
-                <marker date="1505500299896" expanded="true" signature="1724:1863" ph="INSERT INTO `expensesdetails`... " />
-                <marker date="1505500299896" expanded="true" signature="1724:1953" ph="INSERT INTO `expensesdetails`... " />
-                <marker date="1505500299896" expanded="true" signature="2361:2430" ph="DELETE FROM " />
-                <marker date="1505500299896" expanded="true" signature="10910:10962" ph="SELECT * FRO... expensesdetails" />
+                <marker date="1505500324128" expanded="true" signature="553:621" ph="DELETE FROM " />
+                <marker date="1505500324128" expanded="true" signature="777:808" ph="SELECT * FRO... expensesdetails" />
+                <marker date="1505500324128" expanded="true" signature="777:824" ph="SELECT * FRO... expensesdetails" />
+                <marker date="1505500324128" expanded="true" signature="777:827" ph="SELECT * FRO... expensesdetails" />
+                <marker date="1505500324128" expanded="true" signature="777:839" ph="SELECT * FRO... expensesdetails" />
+                <marker date="1505500324128" expanded="true" signature="777:841" ph="SELECT * FRO... expensesdetails" />
+                <marker date="1505500324128" expanded="true" signature="1191:1229" ph="UPDATE `expe... " />
+                <marker date="1505500324128" expanded="true" signature="1191:1370" ph="UPDATE `expe... " />
+                <marker date="1505500324128" expanded="true" signature="1191:1378" ph="UPDATE `expe... " />
+                <marker date="1505500324128" expanded="true" signature="1724:1863" ph="INSERT INTO `expensesdetails`... " />
+                <marker date="1505500324128" expanded="true" signature="1724:1953" ph="INSERT INTO `expensesdetails`... " />
+                <marker date="1505500324128" expanded="true" signature="2361:2430" ph="DELETE FROM " />
+                <marker date="1505500324128" expanded="true" signature="10911:10963" ph="SELECT * FRO... expensesdetails" />
               </folding>
             </state>
           </provider>
@@ -277,12 +280,12 @@
       <updated>1505437453929</updated>
       <workItem from="1505437456178" duration="11234000" />
       <workItem from="1505473350702" duration="10136000" />
-      <workItem from="1505500017696" duration="282000" />
+      <workItem from="1505500017696" duration="306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21652000" />
+    <option name="totallyTimeSpent" value="21676000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1938" height="1168" extended-state="6" />
@@ -325,19 +328,19 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1505500299896" expanded="true" signature="553:621" ph="DELETE FROM " />
-            <marker date="1505500299896" expanded="true" signature="777:808" ph="SELECT * FRO... expensesdetails" />
-            <marker date="1505500299896" expanded="true" signature="777:824" ph="SELECT * FRO... expensesdetails" />
-            <marker date="1505500299896" expanded="true" signature="777:827" ph="SELECT * FRO... expensesdetails" />
-            <marker date="1505500299896" expanded="true" signature="777:839" ph="SELECT * FRO... expensesdetails" />
-            <marker date="1505500299896" expanded="true" signature="777:841" ph="SELECT * FRO... expensesdetails" />
-            <marker date="1505500299896" expanded="true" signature="1191:1229" ph="UPDATE `expe... " />
-            <marker date="1505500299896" expanded="true" signature="1191:1370" ph="UPDATE `expe... " />
-            <marker date="1505500299896" expanded="true" signature="1191:1378" ph="UPDATE `expe... " />
-            <marker date="1505500299896" expanded="true" signature="1724:1863" ph="INSERT INTO `expensesdetails`... " />
-            <marker date="1505500299896" expanded="true" signature="1724:1953" ph="INSERT INTO `expensesdetails`... " />
-            <marker date="1505500299896" expanded="true" signature="2361:2430" ph="DELETE FROM " />
-            <marker date="1505500299896" expanded="true" signature="10910:10962" ph="SELECT * FRO... expensesdetails" />
+            <marker date="1505500324128" expanded="true" signature="553:621" ph="DELETE FROM " />
+            <marker date="1505500324128" expanded="true" signature="777:808" ph="SELECT * FRO... expensesdetails" />
+            <marker date="1505500324128" expanded="true" signature="777:824" ph="SELECT * FRO... expensesdetails" />
+            <marker date="1505500324128" expanded="true" signature="777:827" ph="SELECT * FRO... expensesdetails" />
+            <marker date="1505500324128" expanded="true" signature="777:839" ph="SELECT * FRO... expensesdetails" />
+            <marker date="1505500324128" expanded="true" signature="777:841" ph="SELECT * FRO... expensesdetails" />
+            <marker date="1505500324128" expanded="true" signature="1191:1229" ph="UPDATE `expe... " />
+            <marker date="1505500324128" expanded="true" signature="1191:1370" ph="UPDATE `expe... " />
+            <marker date="1505500324128" expanded="true" signature="1191:1378" ph="UPDATE `expe... " />
+            <marker date="1505500324128" expanded="true" signature="1724:1863" ph="INSERT INTO `expensesdetails`... " />
+            <marker date="1505500324128" expanded="true" signature="1724:1953" ph="INSERT INTO `expensesdetails`... " />
+            <marker date="1505500324128" expanded="true" signature="2361:2430" ph="DELETE FROM " />
+            <marker date="1505500324128" expanded="true" signature="10911:10963" ph="SELECT * FRO... expensesdetails" />
           </folding>
         </state>
       </provider>
@@ -363,19 +366,19 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1505500299896" expanded="true" signature="553:621" ph="DELETE FROM " />
-            <marker date="1505500299896" expanded="true" signature="777:808" ph="SELECT * FRO... expensesdetails" />
-            <marker date="1505500299896" expanded="true" signature="777:824" ph="SELECT * FRO... expensesdetails" />
-            <marker date="1505500299896" expanded="true" signature="777:827" ph="SELECT * FRO... expensesdetails" />
-            <marker date="1505500299896" expanded="true" signature="777:839" ph="SELECT * FRO... expensesdetails" />
-            <marker date="1505500299896" expanded="true" signature="777:841" ph="SELECT * FRO... expensesdetails" />
-            <marker date="1505500299896" expanded="true" signature="1191:1229" ph="UPDATE `expe... " />
-            <marker date="1505500299896" expanded="true" signature="1191:1370" ph="UPDATE `expe... " />
-            <marker date="1505500299896" expanded="true" signature="1191:1378" ph="UPDATE `expe... " />
-            <marker date="1505500299896" expanded="true" signature="1724:1863" ph="INSERT INTO `expensesdetails`... " />
-            <marker date="1505500299896" expanded="true" signature="1724:1953" ph="INSERT INTO `expensesdetails`... " />
-            <marker date="1505500299896" expanded="true" signature="2361:2430" ph="DELETE FROM " />
-            <marker date="1505500299896" expanded="true" signature="10910:10962" ph="SELECT * FRO... expensesdetails" />
+            <marker date="1505500324128" expanded="true" signature="553:621" ph="DELETE FROM " />
+            <marker date="1505500324128" expanded="true" signature="777:808" ph="SELECT * FRO... expensesdetails" />
+            <marker date="1505500324128" expanded="true" signature="777:824" ph="SELECT * FRO... expensesdetails" />
+            <marker date="1505500324128" expanded="true" signature="777:827" ph="SELECT * FRO... expensesdetails" />
+            <marker date="1505500324128" expanded="true" signature="777:839" ph="SELECT * FRO... expensesdetails" />
+            <marker date="1505500324128" expanded="true" signature="777:841" ph="SELECT * FRO... expensesdetails" />
+            <marker date="1505500324128" expanded="true" signature="1191:1229" ph="UPDATE `expe... " />
+            <marker date="1505500324128" expanded="true" signature="1191:1370" ph="UPDATE `expe... " />
+            <marker date="1505500324128" expanded="true" signature="1191:1378" ph="UPDATE `expe... " />
+            <marker date="1505500324128" expanded="true" signature="1724:1863" ph="INSERT INTO `expensesdetails`... " />
+            <marker date="1505500324128" expanded="true" signature="1724:1953" ph="INSERT INTO `expensesdetails`... " />
+            <marker date="1505500324128" expanded="true" signature="2361:2430" ph="DELETE FROM " />
+            <marker date="1505500324128" expanded="true" signature="10911:10963" ph="SELECT * FRO... expensesdetails" />
           </folding>
         </state>
       </provider>
@@ -476,22 +479,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="97" selection-end-column="21" />
+        <state relative-caret-position="347">
+          <caret line="89" column="18" lean-forward="false" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
           <folding>
-            <marker date="1505500299896" expanded="true" signature="553:621" ph="DELETE FROM " />
-            <marker date="1505500299896" expanded="true" signature="777:808" ph="SELECT * FRO... expensesdetails" />
-            <marker date="1505500299896" expanded="true" signature="777:824" ph="SELECT * FRO... expensesdetails" />
-            <marker date="1505500299896" expanded="true" signature="777:827" ph="SELECT * FRO... expensesdetails" />
-            <marker date="1505500299896" expanded="true" signature="777:839" ph="SELECT * FRO... expensesdetails" />
-            <marker date="1505500299896" expanded="true" signature="777:841" ph="SELECT * FRO... expensesdetails" />
-            <marker date="1505500299896" expanded="true" signature="1191:1229" ph="UPDATE `expe... " />
-            <marker date="1505500299896" expanded="true" signature="1191:1370" ph="UPDATE `expe... " />
-            <marker date="1505500299896" expanded="true" signature="1191:1378" ph="UPDATE `expe... " />
-            <marker date="1505500299896" expanded="true" signature="1724:1863" ph="INSERT INTO `expensesdetails`... " />
-            <marker date="1505500299896" expanded="true" signature="1724:1953" ph="INSERT INTO `expensesdetails`... " />
-            <marker date="1505500299896" expanded="true" signature="2361:2430" ph="DELETE FROM " />
-            <marker date="1505500299896" expanded="true" signature="10910:10962" ph="SELECT * FRO... expensesdetails" />
+            <marker date="1505500324128" expanded="true" signature="553:621" ph="DELETE FROM " />
+            <marker date="1505500324128" expanded="true" signature="777:808" ph="SELECT * FRO... expensesdetails" />
+            <marker date="1505500324128" expanded="true" signature="777:824" ph="SELECT * FRO... expensesdetails" />
+            <marker date="1505500324128" expanded="true" signature="777:827" ph="SELECT * FRO... expensesdetails" />
+            <marker date="1505500324128" expanded="true" signature="777:839" ph="SELECT * FRO... expensesdetails" />
+            <marker date="1505500324128" expanded="true" signature="777:841" ph="SELECT * FRO... expensesdetails" />
+            <marker date="1505500324128" expanded="true" signature="1191:1229" ph="UPDATE `expe... " />
+            <marker date="1505500324128" expanded="true" signature="1191:1370" ph="UPDATE `expe... " />
+            <marker date="1505500324128" expanded="true" signature="1191:1378" ph="UPDATE `expe... " />
+            <marker date="1505500324128" expanded="true" signature="1724:1863" ph="INSERT INTO `expensesdetails`... " />
+            <marker date="1505500324128" expanded="true" signature="1724:1953" ph="INSERT INTO `expensesdetails`... " />
+            <marker date="1505500324128" expanded="true" signature="2361:2430" ph="DELETE FROM " />
+            <marker date="1505500324128" expanded="true" signature="10911:10963" ph="SELECT * FRO... expensesdetails" />
           </folding>
         </state>
       </provider>
