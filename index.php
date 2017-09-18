@@ -87,7 +87,7 @@ if (!empty($_GET['del_id'])) {
 <div class="container">
     <div class="row">
         <div class="header clearfix">
-            <nav> 
+            <!-- <nav> 
                 <ul class="nav nav-pills float-right">
                     <li class="nav-item">
                         <a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
@@ -96,7 +96,7 @@ if (!empty($_GET['del_id'])) {
                         <a class="nav-link" href="#">About</a>
                     </li>
                 </ul>
-            </nav>
+            </nav> -->
             <h1 class=""><strong> Expense </strong> Tracker</h1>
 
         </div>
@@ -259,8 +259,8 @@ if (!empty($_GET['del_id'])) {
     </div>
 
     <footer class="footer text-center navbar-fixed-bottom">
-        <a class="button" href="#" target="_blank">Made with <i class="fa fa-heart"></i> on Bootstrap by <strong> Vid & Sid</strong></a>
-        <p>&copy; Vid and Sid 2017</p>
+        <a class="button" href="#" target="_blank">Made with <i class="fa fa-heart"></i> on Bootstrap by <strong> &copy; Vid & Sid</strong></a>
+        
     </footer>
     <!-- Bootstrap core JavaScript
     ================================================== -->
